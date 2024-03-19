@@ -7,3 +7,4 @@ SELECT count(1) col1
  from ${ref("second_view")},
  ${ref("first_view")},
  ${ref("third_view")}
+ where 1=1
