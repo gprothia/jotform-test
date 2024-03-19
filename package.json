@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "jotform-test",
+=======
+  "name": "demo",
+>>>>>>> refs/heads/main
   "dependencies": {
     "@dataform/core": "2.8.3"
   }

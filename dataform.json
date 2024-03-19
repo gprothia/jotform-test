@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "defaultSchema": "dataform",
+=======
+  "defaultSchema": "dataform2",
+>>>>>>> refs/heads/main
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
   "defaultDatabase": "bold-kit-384717",
